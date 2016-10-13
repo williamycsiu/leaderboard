@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e34e24-07c3-42c3-8b51-1d993d180499" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.meteor/packages" afterPath="$PROJECT_DIR$/app/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.meteor/versions" afterPath="$PROJECT_DIR$/app/.meteor/versions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/leaderboard.css" afterPath="$PROJECT_DIR$/app/leaderboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/leaderboard.html" afterPath="$PROJECT_DIR$/app/leaderboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/leaderboard.js" afterPath="$PROJECT_DIR$/app/leaderboard.js" />
     </list>
     <ignored path="leaderboard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="leaderboard.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="leaderboard.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/leaderboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
+            <state relative-caret-position="680">
               <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
@@ -44,14 +36,14 @@
       <file leaf-file-name="leaderboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/leaderboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="718">
+            <state relative-caret-position="736">
               <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leaderboard.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leaderboard.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/leaderboard.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
@@ -481,26 +473,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/client/main.js" />
     <entry file="file://$PROJECT_DIR$/app/client/main.html" />
-    <entry file="file://$PROJECT_DIR$/app/leaderboard.html">
+    <entry file="file://$PROJECT_DIR$/app/leaderboard.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/leaderboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
+        <state relative-caret-position="736">
           <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/leaderboard.css">
+    <entry file="file://$PROJECT_DIR$/app/leaderboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="680">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
